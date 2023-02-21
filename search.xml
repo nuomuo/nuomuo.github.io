@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>罗翔语录摘抄</title>
-    <url>/nuomuo/read/20200208-%E7%BD%97%E7%BF%94%E8%AF%AD%E5%BD%95%E6%91%98%E6%8A%84/</url>
+    <url>/read/20200208-%E7%BD%97%E7%BF%94%E8%AF%AD%E5%BD%95%E6%91%98%E6%8A%84/</url>
     <content><![CDATA[<p><strong>1、人生要做你该做的事情并接受事与愿违</strong></p>
 <p>人要接受自己的有限性</p>
 <p>如果你相信，天道酬勤，我命由我不由天，当然，他会给你打上一针强心针，让你去努力。但最终努力的结果，成功或者失败，如果失败了你就会陷入虚无之中，你会觉得一切的理想都是骗人的，为什么我这么努力，天道就酬勤呢？为什么我不能改变命运呢？理想主义最后就会变成虚无主义，就会变成犬儒主义，就会变成放纵主义。</p>
@@ -24,7 +24,7 @@
   </entry>
   <entry>
     <title>Redis-缓存穿透、击穿、雪崩</title>
-    <url>/nuomuo/tech/redis/20200625-%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F-%E5%87%BB%E7%A9%BF-%E9%9B%AA%E5%B4%A9/</url>
+    <url>/tech/redis/20200625-%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F-%E5%87%BB%E7%A9%BF-%E9%9B%AA%E5%B4%A9/</url>
     <content><![CDATA[<blockquote>
 <ol>
 <li>缓存雪崩：大面积 key 过期导致大量请求直接打到 db，db挂了。解决：设置过期时间加随机时间 </li>
@@ -82,7 +82,7 @@
   </entry>
   <entry>
     <title>Redis-数据持久化</title>
-    <url>/nuomuo/tech/redis/20220626-Redis-%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96/</url>
+    <url>/tech/redis/20220626-Redis-%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96/</url>
     <content><![CDATA[<blockquote>
 <p>Redis 工作时数据都存储在内存中，万一服务器断电，则所有数据都会丢失。针对这种情况，Redis采用持久化机制来增强数据安全性。<br>Redis是怎么进行持久化的？</p>
 </blockquote>
